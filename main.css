@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+@import url('https://fonts.googleapis.com/css?family=Syncopate');
+
+body {
+    background-color: #23243b;
+    overflow: hidden;
+    background-image: url(http://cdn.wallpapersafari.com/34/48/c7KI9S.jpg);
+    background-size: stretch;
+}
+
+.ipadress {
+    font-size: 4vw;
+    font-family: "Syncopate";
+}
+.data {
+    font-size: 4vw;
+    font-family: "Syncopate";
+}
